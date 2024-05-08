@@ -1,6 +1,6 @@
 <h1 align="center"> 0G
 
-![image](https://github.com/molla202/0G/assets/91562185/6eca238f-cd35-411b-9c5a-857fbd80dd33)
+![image](https://0g.ai/media-kit/0G-Logo.png)
 
 
 </h1>
